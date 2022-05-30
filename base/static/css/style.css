@@ -1,0 +1,26 @@
+#chart-area1 {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 100px;
+
+}
+#chart-area2 {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 200px;
+
+}
+#chart-area3 {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 200px;
+
+}
+
+.navbar-brand {
+	height: 60px;
+	padding: 5px 0px;
+}
